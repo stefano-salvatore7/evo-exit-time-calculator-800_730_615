@@ -1,1 +1,12 @@
-# evo-exit-time-800_730_615
+EVO Exit Time Calculator per linea oraria 8:00 - 7:30 - 6:15
+
+Questo script Tampermonkey/Greasemonkey è progettato per il sistema di gestione delle presenze EVO (usato su https://personale-unibo.hrgpi.it/). Calcola automaticamente l'orario di uscita previsto per la giornata corrente, tenendo conto delle timbrature, dell'eventuale pausa e della propria linea oraria.
+
+(Versione Script: 1.0 - Ufficiale)
+
+Per l'installazione e configurazione fare riferimento al seguente README:
+* **[README generale](https://github.com/stefano-salvatore7/evo-exit-time-calc/blob/main/README.md)**
+
+* ## Contributi
+
+Se desideri contribuire a migliorare questo script, sentiti libero di aprire una "Issue" o proporre una "Pull Request" sul repository GitHub.
